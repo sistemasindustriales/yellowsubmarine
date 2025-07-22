@@ -1,0 +1,8 @@
+{
+  "logo": "https://i.imgur.com/ejemplo.png",
+  "background": "https://i.imgur.com/ejemplo.jpg",
+  "contactEmail": "contacto@example.com",
+  "behaviorHints": {
+    "defaultVideoKind": "movie"
+  }
+}
