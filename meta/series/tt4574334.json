@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt4574334",
+    "type": "series",
+    "name": "Stranger Things",
+    "poster": "https://media.themoviedb.org/t/p/w220_and_h330_face/oMkVNujGNmGmfNeHwxcUF6mncQJ.jpg",
+    "description": "Una familia viaja a Nueva York y vive una serie de aventuras.",
+    "videos": [
+      {
+        "id": "tt4574334__s01e01",
+        "season": 1,
+        "episode": 1,
+        "title": "Llegada a la Gran Manzana",
+        "overview": "La familia llega a NY y enfrenta el caos del aeropuerto."
+      },
+      {
+        "id": "tt4574334__s01e02",
+        "season": 1,
+        "episode": 2,
+        "title": "Paseo por Central Park",
+        "overview": "Un día lleno de sorpresas y encuentros extraños en Central Park."
+      }
+    ]
+  }
+}
