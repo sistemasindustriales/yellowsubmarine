@@ -6,6 +6,15 @@
       "name": "Vacaciones en NY",
       "poster": "https://via.placeholder.com/300x450?text=Vacaciones+en+NY",
       "description": "Una familia viaja a Nueva York y vive una serie de aventuras."
+    },
+    {
+      "id": "tt1234567",
+      "type": "series",
+      "name": "Stranger Things",
+      "poster": "https://media.themoviedb.org/t/p/w220_and_h330_face/oMkVNujGNmGmfNeHwxcUF6mncQJ.jpg",
+      "description": "desc."
     }
+
+
   ]
 }
