@@ -1,7 +1,7 @@
 {
   "id": "com.ejemplo.series",
   "version": "2.0.0",
-  "name": "Series M3U8",
+  "name": "NETFLIX",
   "description": "Addon para ver series desde M3U8",
   "resources": ["catalog", "meta", "stream"],
   "types": ["series"],
@@ -9,7 +9,7 @@
     {
       "type": "series",
       "id": "series",
-      "name": "Series M3U8"
+      "name": "NETFLIX"
     }
   ]
 }
