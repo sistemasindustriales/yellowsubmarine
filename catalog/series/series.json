@@ -1,0 +1,11 @@
+{
+  "metas": [
+    {
+      "id": "tt1234567",
+      "type": "series",
+      "name": "Vacaciones en NY",
+      "poster": "https://via.placeholder.com/300x450?text=Vacaciones+en+NY",
+      "description": "Una familia viaja a Nueva York y vive una serie de aventuras."
+    }
+  ]
+}

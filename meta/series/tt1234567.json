@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "tt1234567",
+    "type": "series",
+    "name": "Vacaciones en NY",
+    "poster": "https://via.placeholder.com/300x450?text=Vacaciones+en+NY",
+    "description": "Una familia viaja a Nueva York y vive una serie de aventuras.",
+    "videos": [
+      {
+        "id": "tt1234567__s01e01",
+        "season": 1,
+        "episode": 1,
+        "title": "Llegada a la Gran Manzana",
+        "overview": "La familia llega a NY y enfrenta el caos del aeropuerto."
+      },
+      {
+        "id": "tt1234567__s01e02",
+        "season": 1,
+        "episode": 2,
+        "title": "Paseo por Central Park",
+        "overview": "Un día lleno de sorpresas y encuentros extraños en Central Park."
+      }
+    ]
+  }
+}
