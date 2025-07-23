@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "title": "HD 1080p",
+      "url": "https://guileless-alpaca-52f781.netlify.app/demo.m3u8"
+      "type": "hls"
+    }
+  ]
+}

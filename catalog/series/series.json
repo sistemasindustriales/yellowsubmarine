@@ -3,16 +3,16 @@
     {
       "id": "tt1234567",
       "type": "series",
-      "name": "Vacaciones en NY",
+      "name": "Vacaciones en NY1",
       "poster": "https://via.placeholder.com/300x450?text=Vacaciones+en+NY",
-      "description": "Una familia viaja a Nueva York y vive una serie de aventuras."
+      "description": "Una familia viaja a Nueva York y vive una serie de aventuras.1"
     },
     {
-      "id": "tt4574334",
+      "id": "tt1234567",
       "type": "series",
-      "name": "Stranger Things",
+      "name": "Stranger Things1",
       "poster": "https://media.themoviedb.org/t/p/w220_and_h330_face/oMkVNujGNmGmfNeHwxcUF6mncQJ.jpg",
-      "description": "desc."
+      "description": "desc.1"
     }
 
 

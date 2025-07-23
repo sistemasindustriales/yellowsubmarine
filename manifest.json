@@ -1,0 +1,15 @@
+{
+  "id": "com.ejemplo.series",
+  "version": "3.0.0",
+  "name": "NETFLIX50",
+  "description": "Addon para ver series desde M3U8",
+  "resources": ["catalog", "meta", "stream"],
+  "types": ["series"],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "series",
+      "name": "NETFLIX"
+    }
+  ]
+}
